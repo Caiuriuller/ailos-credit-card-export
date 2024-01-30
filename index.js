@@ -1,6 +1,4 @@
 (function () {
-    clear()
-
     const mainTable = document.querySelector('#frm2 > div:nth-child(6) > table')
 
     if (!mainTable)
